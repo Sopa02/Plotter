@@ -1,0 +1,15 @@
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\bin\Debug\PlotterGUI.exe.config
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\bin\Debug\PlotterGUI.exe
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\bin\Debug\PlotterGUI.pdb
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI.csprojAssemblyReference.cache
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\MainWindow.g.cs
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\App.g.cs
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI_MarkupCompile.cache
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI_MarkupCompile.lref
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\MainWindow.baml
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI.g.resources
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI.Properties.Resources.resources
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI.csproj.GenerateResource.cache
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI.csproj.CoreCompileInputs.cache
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI.exe
+D:\WEBFEJLESZTŐ\HGy\0203\PlotterGUI\obj\Debug\PlotterGUI.pdb
